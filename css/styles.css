@@ -1,0 +1,21 @@
+h1 {margin: auto; text-align: center;}
+h2 {margin: auto; text-align: center;}
+h3 {margin-right: auto; margin-bottom: 1px; text-align: left;vertical-align: middle;} 
+p {margin-top: 2mm; margin-bottom: 2mm;}
+ul {margin-left: 5mm; margin-top: 1px;}
+tr {width: 100%;}
+img {display: block; margin: 0 auto;}
+.class1 {padding-left: 10mm;}
+.class2 {padding-left: 5mm; padding-top: 7mm;}
+.class3 {margin-right: 10%;  margin-left: 7mm; font-family: sans-serif;}
+.icon {margin-right: auto; padding-right: 5mm; vertical-align: middle; display: inline;}
+.mainInfoClass {margin-top: 0%;}
+.course {font-size: 16px; font-family: sans-serif; font-weight: bold; color: purple}
+.uni {font-size: 16px; font-family: sans-serif; font-style: italic;}
+.date {font-size: 14px; font-family: serif;font-style: italic;}
+.eduSummary {font-size: 16px; font-family: sans-serif;}
+#mainTable {margin: auto; margin-top: 10mm; width: 18cm; height: 100%; display:table; border: 1mm groove black;}
+#contInfo {border: 2px solid black;}
+#contInfo td {padding: 2px; border: 1px solid black;}
+#persInfo { padding-bottom: 5mm; background-color: #f0f0f0; width: 100%;}
+#photo {margin: auto; margin-top: 5mm; margin-bottom: 5mm; display: block; border: 1px dashed black;}
