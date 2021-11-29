@@ -14,7 +14,7 @@ img {display: block; margin: 0 auto;}
 .uni {font-size: 16px; font-family: sans-serif; font-style: italic;}
 .date {font-size: 14px; font-family: serif;font-style: italic;}
 .eduSummary {font-size: 16px; font-family: sans-serif;}
-#mainTable {margin: auto; margin-top: 10mm; width: 18cm; height: 100%; display:table; border: 1mm groove black;}
+#contents {margin: auto; margin-top: 10mm; width: 18cm; height: 100%; display:table; border: 1mm groove black;}
 #contInfo {border: 2px solid black;}
 #contInfo td {padding: 2px; border: 1px solid black;}
 #persInfo { padding-bottom: 5mm; background-color: #f0f0f0; width: 100%;}
